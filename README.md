@@ -10,3 +10,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
+### My Tech Stack
+
+.JavaScript
+.React
+.React Native
+.Chakra UI
+.Java
+.Python
